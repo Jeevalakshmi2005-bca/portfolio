@@ -11,7 +11,7 @@
     <div class="profile">
         <p><strong>Name:</strong> Jeeva Lakshmi K</p>
         <p><strong>Degree:</strong> Bachelor of Computer Application</p>
-        <p><strong>College:</strong> XYZ University</p>
+        <p><strong>College:</strong> ANNA ADARSH COLLEGE FOR WOMENy</p>
     </div>
 
     <h2>Skills</h2>
